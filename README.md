@@ -27,6 +27,6 @@ Example Mechanisms for Differential Privacy
 Main Files
 ----------
 
-Here's some [code](https://github.com/alabid/pre_college_2019/code/laplace.py)
+Here's some [code](https://github.com/alabid/pre_college_2019/blob/master/code/laplace.py)
 containing implementations of the Laplace mechanism on simple synthetic datasets.
 
